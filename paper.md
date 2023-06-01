@@ -1,6 +1,6 @@
 # Title
 
-This is an even better really cool title
+This is an even better really cool title with simulations
 
 ## Authors
 Me :)
