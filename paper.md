@@ -1,6 +1,6 @@
 # Title
 
-This is a really cool title
+This is an even better really cool title
 
 ## Authors
 Me :)
