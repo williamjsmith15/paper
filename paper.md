@@ -4,7 +4,7 @@ This is an even better really cool title with simulations on Omniverse
 ## Authors
 Me :)
 Another person working on this project...
-
+Lee Margetts
 ## Introduction
 Should probably put an introduction on Omniverse in here
 
