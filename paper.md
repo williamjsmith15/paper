@@ -8,6 +8,9 @@ Another Person
 ## Introduction
 Should probably put an introduction in here
 
+## Methodology
+I did some things with a method I forgot but think it was from (Smith et al 2000)
+
 ## Motivation
 I was motivated for this thing but don't know why anymore... :(
 
