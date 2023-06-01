@@ -26,6 +26,9 @@ We got some results. Yay!
 ## Figures
 These are the figues from the results
 
+## Special Will Section
+Hi this is a section that I have just added
+
 ## Conclusions
 This is what we have concluded from the above things
 
