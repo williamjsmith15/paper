@@ -4,6 +4,7 @@ This is a really cool title
 
 ## Authors
 Me :)
+Another Person
 
 ## Introduction
 Should probably put an introduction in here
