@@ -23,5 +23,8 @@ Simulation data from really_good_sim_program.exe
 ## Results
 We got some results. Yay!
 
+## Figures
+These are the figues from the results
+
 ## Citations
 We need to add some references here
