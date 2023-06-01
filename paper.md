@@ -1,3 +1,6 @@
-# This is a paper title
+# Title
 
-## Authors: Me 
+This is a really cool title
+
+## Authors
+Me :)
