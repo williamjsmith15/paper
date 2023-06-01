@@ -4,6 +4,7 @@ This is an even better really cool title with simulations
 
 ## Authors
 Me :)
+Another person working on this project...
 
 ## Introduction
 Should probably put an introduction in here
