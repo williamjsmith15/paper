@@ -9,6 +9,7 @@ Another Person
 Should probably put an introduction in here
 
 ## Methodology
+There was some instrument I used too
 I did some things with a method I forgot but think it was from (Smith et al 2000)
 
 ## Motivation
